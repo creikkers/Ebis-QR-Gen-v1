@@ -1,0 +1,5 @@
+{
+  "name": "Copy of EBİS QR Generator",
+  "description": "A specialized tool to generate QR codes for the Turkish Electronic Concrete Monitoring System (EBİS) complying with specific technical standards and Group Separator (GS) encoding.",
+  "requestFramePermissions": []
+}
